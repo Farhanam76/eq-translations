@@ -30,7 +30,7 @@ poetry self add poetry-plugin-up
 
 ## Python Package Usage
 
-`eq_translations` is packaged as a python package, though it is not currently published on pypi.
+`eq_translations` is packaged as a python package, though it is not currently published on pypi. test commit
 
 To install, replace `BRANCHNAME` with an appropriate tag or branch and run:
 
